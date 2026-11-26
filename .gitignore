@@ -1,0 +1,8 @@
+Firmware/build/
+Firmware/sdkconfig
+Firmware/sdkconfig.old
+Firmware/managed_components/
+Firmware/.cache/
+.vscode/
+.idea/
+Thumbs.db
